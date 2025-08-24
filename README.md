@@ -2,7 +2,7 @@ SKULL HUNTER
 
 **Author:** Sinan Tahirov (2024)
 
-**Plan on Itch.io**: https://caspianfypex.itch.io/skullhunter
+**Play on Itch.io**: https://caspianfypex.itch.io/skullhunter
 
 This game was developed in 2024 and features a variety of gameplay mechanics:
 
