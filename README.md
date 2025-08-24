@@ -1,6 +1,6 @@
 SKULL HUNTER
 
-**Author:** Sinan Tahirov (2024)
+**Author:** Sinan Tahirov
 
 **Play on Itch.io**: https://caspianfypex.itch.io/skullhunter
 
